@@ -9,7 +9,7 @@ under MIT License (same as the original implementations)
 Original implementations by [Ivan Akimov](https://github.com/ivanakimov)
 
 ### Setup
-<pre>go get github.com/speps/go-hashids</pre>
+<pre>go get github.com/speps/go-hashids/v2</pre>
 
 CLI tool :
 
